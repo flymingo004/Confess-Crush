@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: 'cậu ấn vào đây nhé',
     title: 'Tớ có câu hỏi nho nhỏ',
     desc: 'Tuy tớ làm chưa được chỉnh chu lắm nhưng mong cậu thích nó nhé ',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Thích lắm hehe',
     btnNo: 'Ghéttttt',
     question: 'Vậy cậu có thấy người chỉnh cái web này đẹp trai ko ',
     btnReply: 'Gửi cho bạn <3',
